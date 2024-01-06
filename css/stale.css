@@ -177,7 +177,7 @@ p {
 }
 
 .hero-section {
-  background-image: url("../Img/hero-img.png");
+  background-image: url("../img/hero-img.png");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
